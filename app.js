@@ -4,12 +4,12 @@
 var quiz = { "JS" : [
 	{
 		"id" : 1,
-		"question" : "Inside which HTML element do we put the JavaScript?",
+		"question" : "سؤال باللغة العربية اختبار",
 		"options" : [
-			{"a": "&lt;script&gt;", 
-			 "b":"&lt;javascript&gt;", 
-			 "c":"&lt;scripting&gt;", 
-			 "d":"&lt;js&gt;"}
+			{"a": "إجابة واحد", 
+			 "b":"إجابة ثانية", 
+			 "c":"اجابة ثالثة", 
+			 "d":"لا شئ مما سبق"}
 			],
 		"answer":"&lt;script&gt;",
 		"score":0,
